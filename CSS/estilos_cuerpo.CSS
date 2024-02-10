@@ -1,0 +1,14 @@
+body{
+    background-color: #edfffe;
+}
+
+p{
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.barrnav {
+    font-size: 18px;
+}
